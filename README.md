@@ -5,7 +5,9 @@
 Standard web components based on lit-html and free of dependencies.
 
 # Documentation
-Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
+Doc [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
+Git [https://github.com/cloudbit-interactive/cuppajs](https://github.com/cloudbit-interactive/cuppajs)
+Npm [https://www.npmjs.com/package/cuppajs](https://www.npmjs.com/package/cuppajs)
 
 
 # cuppa-alert (~9kB)
