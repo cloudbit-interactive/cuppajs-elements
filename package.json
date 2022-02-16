@@ -1,7 +1,7 @@
 {
   "name": "cuppajs-elements",
   "description": "Standard and light web components based on lit-html and free of dependencies.",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "author": "Tufik Chediak Sanchez <tufik2@gmail.com>",
   "main": "index.html",
   "scripts": {
