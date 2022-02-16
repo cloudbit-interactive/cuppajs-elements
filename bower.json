@@ -1,0 +1,22 @@
+{
+  "name": "cuppajs-elements",
+  "homepage": "https://github.com/cloudbit-interactive/cuppajs-elements",
+  "authors": [
+    "Tufik Chediak Sanchez <tufik2@gmail.com>"
+  ],
+  "description": "A set of visual and non-visual utility elements that work with any framework and any browser.",
+  "keywords": [
+    "web-components",
+    "utility",
+    "element-collection"
+  ],
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
