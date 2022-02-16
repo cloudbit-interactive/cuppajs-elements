@@ -1,7 +1,7 @@
 {
   "name": "cuppajs-elements",
   "description": "A set of visual and non-visual utility elements that work with any framework and any browser.",
-  "version": "0.0.9",
+  "version": "0.0.12",
   "author": "Tufik Chediak Sanchez <tufik2@gmail.com>",
   "main": "index.html",
   "scripts": {

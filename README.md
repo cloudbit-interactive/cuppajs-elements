@@ -95,11 +95,11 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 # cuppa.drawer
 <!--
 ```
-<custom-element-demo height="400px">
+<custom-element-demo height="300">
   <template>
     <style> body, html{ font-family:arial; } </style>
     <script src="https://cdn.jsdelivr.net/npm/cuppajs/libs/components/cuppa.drawer.min.js" type="module"></script>
-    <cuppa-drawer status="open" position="right" disable-content=".nav-top, .nav-main, .main-section" >
+    <cuppa-drawer id="drawer" position="right">
       <cuppa-drawer-content style="display:flex; height: 100%; flex-direction: column; padding:10px;">
         <h1 style="margin:0">Menu</h1>
         <ul>
@@ -108,6 +108,12 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
         </ul>
       </cuppa-drawer-content>
     </cuppa-drawer>
+
+    <button id="btnOpen">Open Drawer</button>
+    <script>
+    	let drawer = document.getElementById("drawer");
+    	document.getElementById("btnOpen").onclick = ()=>drawer.open();
+    </script>
   </template>
 </custom-element-demo>
 ```
