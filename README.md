@@ -1,11 +1,19 @@
 # Cuppa Elements
 
-Standard web components implementation based on lit-html and observables and free of dependencies.
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/cuppajs-elements)
+
+Standard web components based on lit-html and free of dependencies.
+
+# Documentation
+[Online: http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 
 <!--
 ```
 <custom-element-demo>
   <template>
+    <style>
+      body, html{ font-family:arial; }
+    </style>
     <script src="https://cdn.jsdelivr.net/npm/cuppajs/libs/components/cuppa.alert.min.js" type="module"></script>
     <cuppa-alert 
         title="Message" 
