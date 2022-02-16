@@ -8,7 +8,7 @@ Standard web components based on lit-html and free of dependencies.
 Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 
 
-# cuppa-alert
+# cuppa-alert (~9kB)
 <!--
 ```
 <custom-element-demo height="300">
@@ -27,7 +27,7 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 ```
 -->
 
-# cuppa-switch
+# cuppa-switch (~6.3kB)
 <!--
 ```
 <custom-element-demo>
@@ -39,7 +39,7 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 ```
 -->
 
-# cuppa-tabs
+# cuppa-tabs (~6.3kB)
 <!--
 ```
 <custom-element-demo>
@@ -55,7 +55,7 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 </custom-element-demo>
 ```
 -->
-# cuppa.collapsible
+# cuppa.collapsible (~40kB)
 <!--
 ```
 <custom-element-demo>
@@ -92,7 +92,7 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 </custom-element-demo>
 ```
 -->
-# cuppa.drawer
+# cuppa.drawer (~42kB)
 <!--
 ```
 <custom-element-demo height="300">
