@@ -103,7 +103,7 @@ WebComponents [https://www.webcomponents.org/element/cuppajs-elements](https://w
     <style> body, html{ font-family:arial; } </style>
     <script src="https://cdn.jsdelivr.net/npm/cuppajs/libs/components/cuppa.drawer.min.js" type="module"></script>
     <cuppa-drawer id="drawer" position="right">
-      <cuppa-drawer-content style="display:flex; height: 100%; flex-direction: column; padding:10px;">
+      <cuppa-drawer-content style="display:flex; height: 100%; flex-direction: column; padding:10px; background:#1A1D21; color:#FFF;">
         <h1 style="margin:0">Menu</h1>
         <ul>
           <li>Item 1</li>
