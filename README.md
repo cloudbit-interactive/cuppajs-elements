@@ -11,7 +11,7 @@ Online: [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/)
 # cuppa-alert
 <!--
 ```
-<custom-element-demo height="400">
+<custom-element-demo height="300">
   <template>
     <style>
       body, html{ font-family:arial; }
