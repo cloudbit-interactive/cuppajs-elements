@@ -9,7 +9,7 @@ Standard web components based on lit-html and free of dependencies.
 Doc [http://cuppajs.cloudbit.co/](https://cuppajs.cloudbit.co/) <br />
 Git [https://github.com/cloudbit-interactive/cuppajs](https://github.com/cloudbit-interactive/cuppajs) <br />
 Npm [https://www.npmjs.com/package/cuppajs](https://www.npmjs.com/package/cuppajs) <br />
-WebComponents [https://www.webcomponents.org/element/cuppajs-elements] (https://www.webcomponents.org/element/cuppajs-elements)
+WebComponents [https://www.webcomponents.org/element/cuppajs-elements](https://www.webcomponents.org/element/cuppajs-elements)
 
 # cuppa-alert (~9kB)
 <!--
