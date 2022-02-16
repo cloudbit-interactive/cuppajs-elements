@@ -1,8 +1,8 @@
 # Cuppa Elements
+Standard and light web components based on lit-html and free of dependencies.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/cuppajs-elements)
 
-Standard web components based on lit-html and free of dependencies.
 
 # Documentation
 
