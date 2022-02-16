@@ -1,7 +1,7 @@
 {
   "name": "cuppajs-elements",
   "description": "A set of visual and non-visual utility elements that work with any framework and any browser.",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "author": "Tufik Chediak Sanchez <tufik2@gmail.com>",
   "main": "index.html",
   "scripts": {
@@ -14,8 +14,6 @@
   "license": "ISC",
   "bugs": { "url": "https://github.com/cloudbit-interactive/cuppajs-elements/issues" },
   "homepage": "https://github.com/cloudbit-interactive/cuppajs-elements#readme",
-  "dependencies": {
-    "cuppajs": "^0.0.98"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
